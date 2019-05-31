@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hrrmm... to paraphrase Neo, "there is no pencil!"
+
 Use the left arrow to go back!
